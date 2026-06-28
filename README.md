@@ -50,7 +50,7 @@ Encadré par :
 
 ## Fonctionnement
 
-Les deux scripts R utilisent la commande `getwd()` pour rechercher automatiquement le jeu de données dans le répertoire de travail. Par conséquent, les scripts et le fichier de données (Comparaison traces et traits.ods) doivent être enregistrés dans **le même dossier** afin que les analyses puissent être exécutées correctement.
+Les deux scripts R utilisent la commande `getwd()` pour rechercher automatiquement le jeu de données dans le répertoire de travail. Par conséquent, les scripts et le fichier de données (`Comparaison traces et traits.ods`) doivent être enregistrés dans **le même dossier** afin que les analyses puissent être exécutées correctement.
 
 Structure du dépôt :
 
