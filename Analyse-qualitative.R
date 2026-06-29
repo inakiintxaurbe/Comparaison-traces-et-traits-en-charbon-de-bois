@@ -2,10 +2,10 @@
 # 
 #   Cette code fait partie de une mémoire fin de master apellée :
 #               
-#           "Voir tout en noir :
+#           " Voir tout en noir :
 #
 #   Approche expérimentale d’une production de crayons de charbon de bois 
-#   en contexte contrôlé et comparaison au registre orné"
+#   en contexte contrôlé et comparaison au registre orné "
 #
 #   Mémoire de Master 2 Sciences et Technologies
 #   Mention : Archéologie, Sciences pour l’archéologie
